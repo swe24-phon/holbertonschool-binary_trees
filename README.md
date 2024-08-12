@@ -24,7 +24,7 @@ A **binary tree** is a hierarchical data structure in computer science. Each n
     - Each node has zero, one, or two children.
     - The topmost node is called the **root**.
     - Nodes without children are called **leaves**.
-    - Nodes with exactly one child are **internal nodes**.
+    - Nodes with at least one child are **internal nodes**.
       
 2. **Types of Binary Trees**:
     
